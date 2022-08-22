@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Himanshuraj677/Himanshuraj677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Himanshuraj677/Array** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
